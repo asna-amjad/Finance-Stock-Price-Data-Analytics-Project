@@ -66,8 +66,7 @@ Performed data quality checks including:
 * Check Correlation
 
 **Visualizations included:**
-* Line charts for price trends
-* Correlation heatmap
+Here are some visualizations from the project:
 
   ![alt text](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project/blob/4992a47575dd990c2158e3e80e7c73b365c938e4/Images/plot1.png)
   ![alt text](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project/blob/4992a47575dd990c2158e3e80e7c73b365c938e4/Images/corrplot2.png)
