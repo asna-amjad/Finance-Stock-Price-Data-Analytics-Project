@@ -13,6 +13,11 @@ Finance-Stock-Price-Data-Analytics-Project/
 ├──Images
 └── README.md
 
+├── Images/                               # Visualizations generated during analysis
+├── stock_price_data.csv                  # Dataset containing marketing information
+├── Finance_Stock_Data_Analytics.ipynb    # Jupyter Notebook with analysis and findings
+├── README.md                             # Project documentation
+
 ## 📊 Dataset
 
 The dataset contains historical stock market information used for financial data exploration and analysis.
