@@ -8,13 +8,9 @@ The focus is on preparing and analyzing financial time-series data through a com
 
 ## 📂 Project Structure
 Finance-Stock-Price-Data-Analytics-Project/
-│
-├── data/
-│   └── stock_price_data.csv
-│
-├── notebooks/
-│   └── Finance_Stock_Data_Analytics.ipynb
-│
+├── stock_price_data.csv
+├──Finance_Stock_Data_Analytics.ipynb
+├──Images
 └── README.md
 
 ## 📊 Dataset
