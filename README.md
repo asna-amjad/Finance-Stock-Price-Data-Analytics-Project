@@ -68,8 +68,8 @@ Performed data quality checks including:
 **Visualizations included:**
 * Line charts for price trends
 * Correlation heatmap
-![alt text](https://github.com/asna-amjad/Marketing-Department-Project/blob/c3b30df3f0886bd487db8d4739e1feec0f504d82/Marketing_Dept_Project_Png/graph1.png)
-![alt text](https://github.com/asna-amjad/Marketing-Department-Project/blob/c3b30df3f0886bd487db8d4739e1feec0f504d82/Marketing_Dept_Project_Png/graph2.png)
+![alt text](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project/blob/4992a47575dd990c2158e3e80e7c73b365c938e4/Images/plot1.png)
+![alt text](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project/blob/4992a47575dd990c2158e3e80e7c73b365c938e4/Images/corrplot2.png)
 
 **4. Feature Engineering**
 Created additional analytical features to better understand stock behavior.
