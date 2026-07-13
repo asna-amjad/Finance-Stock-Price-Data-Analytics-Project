@@ -7,17 +7,12 @@ The objective of this project is to build a structured data analytics workflow t
 The focus is on preparing and analyzing financial time-series data through a complete data analytics pipeline.
 
 ## 📂 Project Structure
-Finance-Stock-Price-Data-Analytics-Project/
-├── stock_price_data.csv
-├──Finance_Stock_Data_Analytics.ipynb
-├──Images
-└── README.md
-
+```
 ├── Images/                               # Visualizations generated during analysis
 ├── stock_price_data.csv                  # Dataset containing marketing information
 ├── Finance_Stock_Data_Analytics.ipynb    # Jupyter Notebook with analysis and findings
 ├── README.md                             # Project documentation
-
+```
 ## 📊 Dataset
 
 The dataset contains historical stock market information used for financial data exploration and analysis.
