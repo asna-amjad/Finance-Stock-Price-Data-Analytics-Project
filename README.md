@@ -34,7 +34,7 @@ The dataset contains historical stock market information used for financial data
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/asna-amjad/Marketing_Department_Project.git](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project.git
+git clone https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project.git](https://github.com/asna-amjad/Finance-Stock-Price-Data-Analytics-Project.git
 cd Finance-Stock-Price-Data-Analytics-Project
 ```
 
